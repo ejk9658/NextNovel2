@@ -21,6 +21,8 @@ boot-pay:
   rest-api-key: ***REMOVED***
   private-key: ***REMOVED***
 
+kafka-config:
+  datasource: ***REMOVED***:9092
 ---
 
 spring:
