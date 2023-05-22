@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="695183c4-bb22-4da0-b95d-9f2ce42311c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitlab/issue_templates/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitlab/merge_request_templates/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitlab/pull_request_templates/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitlab/pull_request_templates/pull_request_template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/api_gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/api_gateway/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/api_gateway/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/api_gateway/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/api_gateway/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/api_gateway/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/api_gateway/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/api_gateway/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/api_gateway/src/main/java/com/a509/eureka_api_gateway/EurekaApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/api_gateway/src/main/java/com/a509/eureka_api_gateway/jwt/AuthenticationHeaderFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/api_gateway/src/main/java/com/a509/eureka_api_gateway/jwt/JwtTokenProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/api_gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/api_gateway/src/test/java/com/a509/eureka_api_gateway/EurekaApiGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/eureka_server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/eureka_server/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/eureka_server/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/eureka_server/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/eureka_server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/eureka_server/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/eureka_server/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/eureka_server/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/eureka_server/src/main/java/com/a509/eureka_server/EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/eureka_server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/eureka_server/src/test/java/com/a509/eureka_server/EurekaServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_ai/diffusion/2023-05-03_09-34-33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_ai/diffusion/2023-05-03_09-34-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_ai/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/ServiceMemberApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/component/LoginSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/component/MemberImageComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/component/PointClientComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/config/WebConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/dto/request/MemberLoginRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/dto/request/MemberSignupCheckRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/dto/request/MemberSignupRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/dto/request/MemberUpdatePasswordRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/dto/request/MemberUpdateRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/dto/request/PointCreateRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/dto/response/MemberMyPageResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/dto/response/MemberTokenResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/dto/response/MessageResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/dto/response/PointCreateResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/enums/MemberRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/enums/MemberState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/exception/ControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/exception/DuplicatedMemberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/exception/EmptyValueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/exception/FileStorageException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/exception/InvalidedAccessTokenException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/exception/NoSuchMemberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/exception/dto/ErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/exception/enums/EnumModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/exception/enums/ErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/jpa/member/CustomUserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/jpa/member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/jpa/member/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/jpa/oauth/GoogleUserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/jpa/oauth/OAuth2UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/jwt/JwtTokenProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/security/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/service/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/java/com/a509/service_member/service/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/main/resources/static/images/defaultProfileImg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_member/src/test/java/com/a509/service_member/ServiceMemberApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/ServiceNovelApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/component/MemberClientComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/component/NovelImageComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/config/RedisRepositoryConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/config/WebConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/controller/NovelCommentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/controller/NovelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/controller/NovelLikeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/controller/NovelWriteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/dto/ImageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/dto/MemberMyPageResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/dto/MyPageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/dto/NovelCommentDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/dto/NovelContentDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/dto/NovelDetailDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/dto/NovelImageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/dto/NovelInsertResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/dto/NovelLikeDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/dto/NovelListDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/dto/NovelWriteDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/jpa/novel/Novel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/jpa/novel/NovelRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/jpa/novelComment/NovelComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/jpa/novelComment/NovelCommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/jpa/novelContent/NovelContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/jpa/novelContent/NovelContentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/jpa/novelImage/NovelImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/jpa/novelImage/NovelImageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/mogo/NovelLike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/mogo/NovelLikeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/mogo/sequencce/NovelLikeSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/mogo/sequencce/NovelLikeSequenceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/mogo/sequencce/NovelSequenceGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/redis/Dialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/redis/DialogHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/redis/DialogHistoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/redis/TestRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/redis/questions/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/redis/questions/QuestionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/service/NovelCommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/service/NovelLikeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/service/NovelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/java/com/a509/service_novel/service/NovelWriteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/src/test/java/com/a509/service_novel/NovelApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_novel/uid_image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/bootpay/BootPayComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/bootpay/dto/BootPayTokenDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/bootpay/exception/InvalidReceiptException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/bootpay/exception/NoTokenException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dto/order/request/CancelRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dto/order/request/CreateRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dto/order/request/IsCheckOrderRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dto/order/response/CancelResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dto/order/response/OrderCreateResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dto/order/response/OrderResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dto/order/response/TokenResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dto/orderitem/request/CreateOrderItemRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dto/orderitem/request/DeleteOrderItemRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dto/point/request/PointDeleteRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dto/point/request/PointReadRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dto/point/request/PointUpdateRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dto/point/response/PointCreateResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dto/point/response/PointDeleteResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dto/point/response/PointFindResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dto/point/response/PointUpdateResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/dummy/DummyData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/enums/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/exception/ControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/exception/dto/ErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/exception/enums/EnumModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/exception/enums/ErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/exception/item/NoSuchItemException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/exception/order/DuplicatedOrderException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/exception/order/NoSuchOrderException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/exception/orderitem/NoSuchOrderItemException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/exception/point/DuplicatedPointException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/java/com/a509/common/exception/point/NoSuchPointException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/core/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/img/kafka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/img/stack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/item-service/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/item-service/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/item-service/src/main/java/com/a509/ItemApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/item-service/src/main/java/com/a509/controller/ItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/item-service/src/main/java/com/a509/domain/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/item-service/src/main/java/com/a509/dto/ItemRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/item-service/src/main/java/com/a509/dto/ItemResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/item-service/src/main/java/com/a509/dummy/inputItemData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/item-service/src/main/java/com/a509/enums/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/item-service/src/main/java/com/a509/repostiory/ItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/item-service/src/main/java/com/a509/service/ItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/item-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-item-service/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-item-service/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-item-service/src/main/java/com/a509/OrderItemApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-item-service/src/main/java/com/a509/config/KafkaConsumerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-item-service/src/main/java/com/a509/config/KafkaProducerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-item-service/src/main/java/com/a509/controller/OrderItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-item-service/src/main/java/com/a509/domain/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-item-service/src/main/java/com/a509/dto/request/ReadOrderItemRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-item-service/src/main/java/com/a509/dto/response/OrderItemResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-item-service/src/main/java/com/a509/repository/OrderItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-item-service/src/main/java/com/a509/service/OrderItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-item-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/src/main/java/com/a509/OrderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/src/main/java/com/a509/common/dummy/Dummy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/src/main/java/com/a509/common/kafka/config/KafkaConsumerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/src/main/java/com/a509/common/kafka/config/KafkaProducerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/src/main/java/com/a509/common/kafka/deserializer/OrderStatusDeserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/src/main/java/com/a509/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/src/main/java/com/a509/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/src/main/java/com/a509/dto/CancelRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/src/main/java/com/a509/dto/CreateRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/src/main/java/com/a509/dto/response/CancelResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/src/main/java/com/a509/dto/response/OrderCreateResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/src/main/java/com/a509/dto/response/OrderResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/src/main/java/com/a509/dto/response/TokenResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/src/main/java/com/a509/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/src/main/java/com/a509/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/order-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/src/main/java/com/a509/PointApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/src/main/java/com/a509/config/KafkaConsumerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/src/main/java/com/a509/config/KafkaProducerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/src/main/java/com/a509/controller/PointController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/src/main/java/com/a509/domain/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/src/main/java/com/a509/domain/dto/request/PointCreateRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/src/main/java/com/a509/domain/dto/request/PointDeleteRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/src/main/java/com/a509/domain/dto/request/PointReadRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/src/main/java/com/a509/domain/dto/request/PointUpdateRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/src/main/java/com/a509/domain/dto/response/PointCreateResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/src/main/java/com/a509/domain/dto/response/PointDeleteResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/src/main/java/com/a509/domain/dto/response/PointFindResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/src/main/java/com/a509/domain/dto/response/PointUpdateResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/src/main/java/com/a509/repository/PointRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/src/main/java/com/a509/service/PointService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/point-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_payment/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/service_search/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/서울_5반_A509_발표자료.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/서울_5반_A509_중간발표자료.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/자율PJT_서울_5반_A509_UCC경진대회.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exec/포팅매뉴얼.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q84gBe6IGOusoUpKMaveBnof2c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/SSAFY/자율/a509/S08P31A509",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.3.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="695183c4-bb22-4da0-b95d-9f2ce42311c7" name="Changes" comment="" />
+      <created>1684721983609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684721983609</updated>
+      <workItem from="1684721984763" duration="2874000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
