@@ -1,4 +1,4 @@
-# 🎲 [고도화 프로젝트] [그림이 소설이 되는, Next Novel](https://lab.ssafy.com/s08-ai-image-sub2/S08P22A502)
+# 🎲 [고도화 프로젝트] [그림이 소설이 되는, Next Novel](https://github.com/ejk9658/NextNovel)
 
 <br>
 
@@ -38,7 +38,7 @@ SSAFY 8기 2학기 자율 프로젝트
 
 ## 🏃 Next Novel 의 추가된 기능
 
-### 1) [결제 시스템](https://lab.ssafy.com/s08-final/S08P31A509/-/blob/main/backend/service_payment/README.md)
+### 1) [결제 시스템](https://github.com/ejk9658/NextNovel2/tree/main/backend/service_payment#readme)
 
 - 소설 작성에 필요한 포인트를 결제하는 시스템
 - 실 운영시 발생하는 트래픽 문제를 해결하기 위해 도입
@@ -97,14 +97,14 @@ SSAFY 8기 2학기 자율 프로젝트
 
 ## ✔️ 프로젝트 산출물
 
-- [기능 명세서](https://chipped-cart-851.notion.site/a96e0e004e4c4f39bab65fa821f4825f?v=f77e4329cc5e4b4fbb3a73894ba13c8c)
-- [API 명세서 - 회원, 결제](https://www.notion.so/9e2bd3e4fbb744d1ad5bf18dc1e6df6a?v=17131d147e2840b885d3c6dbe2ee21ee&pvs=4)
-- [API 명세서 - 소설](https://www.notion.so/2314602a137247208b770252cffebc24?v=bfbcd7265e444ce888f5b116e24bda92&pvs=4)
+- [기능 명세서](https://nextnovel2.notion.site/7438d91d81f04798bd534aad00811524?v=3e936ee6afbc4ca8abd98d1d3852d5ba)
+- [API 명세서 - 회원, 결제](https://nextnovel2.notion.site/9e2bd3e4fbb744d1ad5bf18dc1e6df6a?v=17131d147e2840b885d3c6dbe2ee21ee)
+- [API 명세서 - 소설](https://nextnovel2.notion.site/2314602a137247208b770252cffebc24?v=bfbcd7265e444ce888f5b116e24bda92)
 - [ER-Diagram](docs/img/erd.png)
 
 ## ✔️ 프로젝트 결과물
 
-- [포팅 메뉴얼](https://irradiated-apology-665.notion.site/b16c15405eb5480c9d5e4e3176b51fa1)
+- [포팅 메뉴얼](https://nextnovel2.notion.site/b16c15405eb5480c9d5e4e3176b51fa1)
 - [중간 발표 자료](docs/서울_5반_A509_중간발표자료.pptx)
 - [최종 발표 자료](docs/서울_5반_A509_발표자료.pdf)
 - [UCC 영상](docs/자율PJT_서울_5반_A509_UCC경진대회.mp4)
